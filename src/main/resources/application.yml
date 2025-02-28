@@ -1,21 +1,12 @@
 spring:
+  profiles:
+    active: dev
+
   main:
     allow-bean-definition-overriding: true
 
   application:
     name: sdz
-
-  datasource:
-    url: jdbc:mysql://34.22.75.219:5000/sdz_db
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    username: sdz
-    password: password
-
-  jpa:
-    open-in-view: false          # Lazy 로딩 방지
-    show-sql: false             # SQL 출력 여부
-    hibernate:
-      ddl-auto: update         # 테이블 구조를 자동 업데이트
 
 logging:
   level:
