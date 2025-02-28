@@ -1,6 +1,6 @@
 ## 📸 로고 이미지
 
-![SDZ 로고](https://raw.githubusercontent.com/jjungEj/sdz_backproject/master/src/logo.png)
+![SDZ 로고](https://raw.githubusercontent.com/jjungEj/sdz_backproject/master/src/SDZ.png)
 
 
 # 🛒 SDZ - 리브랜딩한 의자 쇼핑몰
